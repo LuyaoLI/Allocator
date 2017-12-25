@@ -18,5 +18,9 @@ Inside the package, there is a script which can substitute the system library wi
 
 To run the project, you just need to go to the path of Allocator package by command - cd Allocator, then insert the command - make run. 
 
+4. License and Author
+This project is only for education purpose. 
+If you have any questions, please feel free to contact the author Luyao Li by email: 286299392@qq.com or luyao6611661@gmail.com 
+
 
  
